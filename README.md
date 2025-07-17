@@ -1,6 +1,6 @@
 # 🌍 TravelTracker Web App
 
-![TravelTracker Banner](<img src="./public/asset/screenshots/Screenshot_Homepage.png" alt="Homepage" width="900" height="500" />)
+![TravelTracker Banner](<img src="./public/asset/screenshots/banner.png" alt="Homepage" width="900" height="500" />)
 
 > A clean and modern travel log application made using **React**, **Vite**, and **JSON Server**.
 
