@@ -1,19 +1,27 @@
 # 🌍 TravelTracker Web App
 
-![TravelTracker Banner](https://via.placeholder.com/1000x200?text=TravelTracker+App)
+![TravelTracker Banner](<img src="./public/asset/screenshots/Screenshot_Homepage.png" alt="Homepage" width="900" height="500" />)
 
 > A clean and modern travel log application made using **React**, **Vite**, and **JSON Server**.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/YOUR_SITE_NAME/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d2bfcca-dfb0-4795-a4d5-1a0849369067/deploy-status)](https://app.netlify.com/projects/worldwise-by-tilak/deploys)
 [![Render API](https://img.shields.io/badge/API-Online-green)](https://worldwise-api-3.onrender.com/cities)
 
 ---
 
 ## 📸 Screenshots
 
-| Homepage                                                       | Add City                                                       |
-| -------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![Homepage](https://via.placeholder.com/400x200?text=Homepage) | ![Add City](https://via.placeholder.com/400x200?text=Add+City) |
+| Homepage                                             | Product Page                                       |
+| ---------------------------------------------------- | -------------------------------------------------- |
+| ![Homepage](./public/asset/screenshots/homepage.png) | ![Product](./public/asset/screenshots/product.png) |
+
+| Pricing Page                                       | App Layout (Sidebar + Map)                              |
+| -------------------------------------------------- | ------------------------------------------------------- |
+| ![Pricing](./public/asset/screenshots/pricing.png) | ![AppLayout](./public/asset/screenshots/app-layout.png) |
+
+| Add City                                             | Review City Details                                          |
+| ---------------------------------------------------- | ------------------------------------------------------------ |
+| ![Add City](./public/asset/screenshots/add-city.png) | ![City Details](./public/asset/screenshots/city-details.png) |
 
 ---
 
@@ -82,10 +90,8 @@ src/
 
 ## 🔗 Live URLs
 
-- **Frontend:** [https://your-netlify-site.netlify.app](https://your-netlify-site.netlify.app)
+- **Frontend:** [https://worldwise-by-tilak.netlify.app](https://worldwise-by-tilak.netlify.app/)
 - **API Backend:** [https://worldwise-api-3.onrender.com/cities](https://worldwise-api-3.onrender.com/cities)
-
-> ⚠️ Replace with your actual Netlify deployment link if different.
 
 ---
 
